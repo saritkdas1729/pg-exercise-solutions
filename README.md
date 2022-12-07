@@ -1,2 +1,2 @@
 # pg-exercise-solutions
-My solutions to SQL exercises from https://pgexercises.com/
+This repository contains my solutions to the sql problems given in https://pgexercises.com/
