@@ -30,3 +30,30 @@ This repository contains my solutions to the sql problems given in https://pgexe
 | [Produce a list of costly bookings](https://pgexercises.com/questions/joins/threejoin2.html) | [Solution]() |
 | [Produce a list of all members, along with their recommender, using no joins.](https://pgexercises.com/questions/joins/sub.html) | [Solution](./Joins%20and%20Subqueries/sub.sql) |
 | [Produce a list of costly bookings, using a subquery](https://pgexercises.com/questions/joins/tjsub.html) | [Solution]() |
+
+## Aggregates
+
+| Problem | Solution |
+| ------- | -------- |
+| [Count the number of facilities](https://pgexercises.com/questions/aggregates/count.html) | [Solution](./Aggregates/count.sql) |
+| [Count the number of expensive facilities](https://pgexercises.com/questions/aggregates/count2.html) | [Solution]() |
+| [Count the number of recommendations each member makes.](https://pgexercises.com/questions/aggregates/count3.html) | [Solution](./Aggregates/count3.sql) |
+| [List the total slots booked per facility](https://pgexercises.com/questions/aggregates/fachours.html) | [Solution]() |
+| [List the total slots booked per facility in a given month](https://pgexercises.com/questions/aggregates/fachoursbymonth.html) | [Solution](./Aggregates/fachoursbymonth.sql) |
+| [List the total slots booked per facility per month](https://pgexercises.com/questions/aggregates/fachoursbymonth2.html) | [Solution]() |
+| [Find the count of members who have made at least one booking](https://pgexercises.com/questions/aggregates/members1.html) | [Solution](./Aggregates/members1.sql) |
+| [List facilities with more than 1000 slots booked](https://pgexercises.com/questions/aggregates/fachours1a.html) | [Solution]() |
+| [Find the total revenue of each facility](https://pgexercises.com/questions/aggregates/facrev.html) | [Solution](./Aggregates/facrev.sql) |
+| [Find facilities with a total revenue less than 1000](https://pgexercises.com/questions/aggregates/facrev2.html) | [Solution]() |
+| [Output the facility id that has the highest number of slots booked](https://pgexercises.com/questions/aggregates/fachours2.html) | [Solution](./Aggregates/fachours2.sql) |
+| [List the total slots booked per facility per month, part 2](https://pgexercises.com/questions/aggregates/fachoursbymonth3.html) | [Solution]() |
+| [List the total hours booked per named facility](https://pgexercises.com/questions/aggregates/fachours3.html) | [Solution]() |
+| [List each member's first booking after September 1st 2012](https://pgexercises.com/questions/aggregates/nbooking.html) | [Solution]() |
+| [Produce a list of member names, with each row containing the total member count](https://pgexercises.com/questions/aggregates/countmembers.html) | [Solution]() |
+| [Produce a numbered list of members](https://pgexercises.com/questions/aggregates/nummembers.html) | [Solution]() |
+| [Output the facility id that has the highest number of slots booked, again](https://pgexercises.com/questions/aggregates/fachours4.html) | [Solution]() |
+| [Rank members by (rounded) hours used](https://pgexercises.com/questions/aggregates/rankmembers.html) | [Solution]() |
+| [Find the top three revenue generating facilities](https://pgexercises.com/questions/aggregates/facrev3.html) | [Solution]() |
+| [Classify facilities by value](https://pgexercises.com/questions/aggregates/classify.html) | [Solution]() |
+| [Calculate the payback time for each facility](https://pgexercises.com/questions/aggregates/payback.html) | [Solution]() |
+| [Calculate a rolling average of total revenue](https://pgexercises.com/questions/aggregates/rollingavg.html) | [Solution]() |
