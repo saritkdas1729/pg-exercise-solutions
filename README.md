@@ -36,13 +36,13 @@ This repository contains my solutions to the sql problems given in https://pgexe
 | Problem | Solution |
 | ------- | -------- |
 | [Count the number of facilities](https://pgexercises.com/questions/aggregates/count.html) | [Solution](./Aggregates/count.sql) |
-| [Count the number of expensive facilities](https://pgexercises.com/questions/aggregates/count2.html) | [Solution]() |
+| [Count the number of expensive facilities](https://pgexercises.com/questions/aggregates/count2.html) | [Solution](./Aggregates/count2.sql) |
 | [Count the number of recommendations each member makes.](https://pgexercises.com/questions/aggregates/count3.html) | [Solution](./Aggregates/count3.sql) |
-| [List the total slots booked per facility](https://pgexercises.com/questions/aggregates/fachours.html) | [Solution]() |
+| [List the total slots booked per facility](https://pgexercises.com/questions/aggregates/fachours.html) | [Solution](./Aggregates/fachours.sql) |
 | [List the total slots booked per facility in a given month](https://pgexercises.com/questions/aggregates/fachoursbymonth.html) | [Solution](./Aggregates/fachoursbymonth.sql) |
-| [List the total slots booked per facility per month](https://pgexercises.com/questions/aggregates/fachoursbymonth2.html) | [Solution]() |
+| [List the total slots booked per facility per month](https://pgexercises.com/questions/aggregates/fachoursbymonth2.html) | [Solution](./Aggregates/fachoursbymonth2.sql) |
 | [Find the count of members who have made at least one booking](https://pgexercises.com/questions/aggregates/members1.html) | [Solution](./Aggregates/members1.sql) |
-| [List facilities with more than 1000 slots booked](https://pgexercises.com/questions/aggregates/fachours1a.html) | [Solution]() |
+| [List facilities with more than 1000 slots booked](https://pgexercises.com/questions/aggregates/fachours1a.html) | [Solution](./Aggregates/fachours1a.sql) |
 | [Find the total revenue of each facility](https://pgexercises.com/questions/aggregates/facrev.html) | [Solution](./Aggregates/facrev.sql) |
 | [Find facilities with a total revenue less than 1000](https://pgexercises.com/questions/aggregates/facrev2.html) | [Solution]() |
 | [Output the facility id that has the highest number of slots booked](https://pgexercises.com/questions/aggregates/fachours2.html) | [Solution](./Aggregates/fachours2.sql) |
