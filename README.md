@@ -23,10 +23,10 @@ This repository contains my solutions to the sql problems given in https://pgexe
 | Problem | Solution |
 | ------- | -------- |
 | [Retrieve the start times of members' bookings](https://pgexercises.com/questions/joins/simplejoin.html) | [Solution](./Joins%20and%20Subqueries/simple-join.sql) |
-| [Work out the start times of bookings for tennis courts](https://pgexercises.com/questions/joins/simplejoin2.html) | [Solution]() |
+| [Work out the start times of bookings for tennis courts](https://pgexercises.com/questions/joins/simplejoin2.html) | [Solution](./Joins%20and%20Subqueries/simple-join-2.sql) |
 | [Produce a list of all members who have recommended another member](https://pgexercises.com/questions/joins/self.html) | [Solution](./Joins%20and%20Subqueries/self.sql) |
-| [Produce a list of all members, along with their recommender](https://pgexercises.com/questions/joins/self2.html) | [Solution]() |
+| [Produce a list of all members, along with their recommender](https://pgexercises.com/questions/joins/self2.html) | [Solution](./Joins%20and%20Subqueries/self2.sql) |
 | [Produce a list of all members who have used a tennis court](https://pgexercises.com/questions/joins/threejoin.html) | [Solution](./Joins%20and%20Subqueries/threejoin.sql) |
-| [Produce a list of costly bookings](https://pgexercises.com/questions/joins/threejoin2.html) | [Solution]() |
+| [Produce a list of costly bookings](https://pgexercises.com/questions/joins/threejoin2.html) | [Solution](./Joins%20and%20Subqueries/three-join-2.sql) |
 | [Produce a list of all members, along with their recommender, using no joins.](https://pgexercises.com/questions/joins/sub.html) | [Solution](./Joins%20and%20Subqueries/sub.sql) |
-| [Produce a list of costly bookings, using a subquery](https://pgexercises.com/questions/joins/tjsub.html) | [Solution]() |
+| [Produce a list of costly bookings, using a subquery](https://pgexercises.com/questions/joins/tjsub.html) | [Solution](./Joins%20and%20Subqueries/tjsub.sql) |
