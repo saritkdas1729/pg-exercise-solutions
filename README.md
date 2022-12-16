@@ -46,11 +46,11 @@ This repository contains my solutions to the sql problems given in https://pgexe
 | [Find the total revenue of each facility](https://pgexercises.com/questions/aggregates/facrev.html) | [Solution](./Aggregates/facrev.sql) |
 | [Find facilities with a total revenue less than 1000](https://pgexercises.com/questions/aggregates/facrev2.html) | [Solution]() |
 | [Output the facility id that has the highest number of slots booked](https://pgexercises.com/questions/aggregates/fachours2.html) | [Solution](./Aggregates/fachours2.sql) |
-| [List the total slots booked per facility per month, part 2](https://pgexercises.com/questions/aggregates/fachoursbymonth3.html) | [Solution]() |
+| [List the total slots booked per facility per month, part 2](https://pgexercises.com/questions/aggregates/fachoursbymonth3.html) | [Solution](./Aggregates/fachoursbymonth2.sql) |
 | [List the total hours booked per named facility](https://pgexercises.com/questions/aggregates/fachours3.html) | [Solution]() |
-| [List each member's first booking after September 1st 2012](https://pgexercises.com/questions/aggregates/nbooking.html) | [Solution]() |
+| [List each member's first booking after September 1st 2012](https://pgexercises.com/questions/aggregates/nbooking.html) | [Solution](./Aggregates/nbooking.sql) |
 | [Produce a list of member names, with each row containing the total member count](https://pgexercises.com/questions/aggregates/countmembers.html) | [Solution]() |
-| [Produce a numbered list of members](https://pgexercises.com/questions/aggregates/nummembers.html) | [Solution]() |
+| [Produce a numbered list of members](https://pgexercises.com/questions/aggregates/nummembers.html) | [Solution](./Aggregates/nummembers.sql) |
 | [Output the facility id that has the highest number of slots booked, again](https://pgexercises.com/questions/aggregates/fachours4.html) | [Solution]() |
 | [Rank members by (rounded) hours used](https://pgexercises.com/questions/aggregates/rankmembers.html) | [Solution]() |
 | [Find the top three revenue generating facilities](https://pgexercises.com/questions/aggregates/facrev3.html) | [Solution]() |
